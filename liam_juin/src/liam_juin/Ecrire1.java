@@ -13,7 +13,7 @@ import java.io.PrintWriter;
 public class Ecrire1 {
 
 	public static void main(String[] args) {
-		String Fichier="Ecrire.txt";
+		String Fichier="ecrire.txt";
 		final String s1="Voici ce que je voudrais";
 		final String s2="écrire";
 		
